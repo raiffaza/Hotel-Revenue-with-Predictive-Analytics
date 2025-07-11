@@ -4,19 +4,19 @@ I want to share a recent project where I applied machine learning and data analy
 
 🔍 Key Insights:
 
-Seasonality & Trends: ADR follows a predictable seasonal pattern, peaking during mid-year months (especially August). Recognizing these trends allows hotels to plan pricing strategies in advance.
+1. Seasonality & Trends: ADR follows a predictable seasonal pattern, peaking during mid-year months (especially August). Recognizing these trends allows hotels to plan pricing strategies in advance.
 
-Dynamic Pricing: The positive relationship between ADR and booking volume highlights the importance of adjusting room rates based on demand—raise prices during high-demand periods and offer discounts when demand is low.
+2. Dynamic Pricing: The positive relationship between ADR and booking volume highlights the importance of adjusting room rates based on demand—raise prices during high-demand periods and offer discounts when demand is low.
 
-Model Performance: After evaluating multiple models, Random Forest proved to be the best performer for ADR predictions, with superior accuracy compared to other models like XGBoost and LightGBM.
+3. Model Performance: After evaluating multiple models, Random Forest proved to be the best performer for ADR predictions, with superior accuracy compared to other models like XGBoost and LightGBM.
 
 💡 Business Impact:
 
-Revenue Optimization: Predicting ADR helps in setting the right price, ensuring maximum profitability.
+- Revenue Optimization: Predicting ADR helps in setting the right price, ensuring maximum profitability.
 
-Proactive Planning: Insights from predictions enable better inventory management and targeted promotions.
+- Proactive Planning: Insights from predictions enable better inventory management and targeted promotions.
 
-Competitive Advantage: Dynamic pricing and tailored promotions give hotels an edge in an ever-changing market.
+- Competitive Advantage: Dynamic pricing and tailored promotions give hotels an edge in an ever-changing market.
 
 This project underscores the power of data science in driving business decisions. With accurate ADR forecasting, hotels can not only enhance their revenue management strategies but also deliver a better guest experience.
 
